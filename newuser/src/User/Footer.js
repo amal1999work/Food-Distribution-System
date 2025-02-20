@@ -73,7 +73,7 @@ function Footer() {
                                 </p>
                                 <p>
                                     <i class="fa fa-envelope" aria-hidden="true"></i>
-                                    <span><a href="#">neraj@servetheneedy.com</a></span>
+                                    <span><a href="#">abc@gmail.com</a></span>
                                 </p>
                             </div>
                         </div>
@@ -100,7 +100,7 @@ function Footer() {
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                            <h6 class="copy-title"> Copyright &copy; 2024 Serve The Needy is powered by <a href="https://gecnoguru.com/Nerajlal/" target="_blank">Neraj Lal S</a> </h6>
+                            <h6 class="copy-title"> Copyright &copy; 2024 Serve The Needy is powered by <a href="https://gecnoguru.com/abc/" target="_blank">abc</a> </h6>
                         </div>
                     </div>
                 </div>
